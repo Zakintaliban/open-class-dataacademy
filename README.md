@@ -1,0 +1,25 @@
+# checklist
+
+- [x] Chapter 1 - Getting Started
+- [x] Chapter 2 - Python Basics
+- [ ] Chapter 3 - Operators
+- [ ] Chapter 4 - Data Types
+- [ ] Chapter 5 - User Input
+- [ ] Chapter 6 - Lists & Tuples
+- [ ] Chapter 7 - Dictionaries & Sets
+- [ ] Chapter 8 - Loops
+- [ ] Chapter 9 - Functions
+- [ ] Chapter 10 - Recursion
+- [ ] Chapter 11 - Scope
+- [ ] Chapter 12 - Closures
+- [ ] Chapter 13 - f-Strings
+- [ ] Chapter 14 - Modules
+- [ ] Chapter 15 - Command Line Arguments
+- [ ] Chapter 16 - Challenges
+- [ ] Chapter 17 - Lambda & Higher Order Functions
+- [ ] Chapter 18 - Classes & Objects
+- [ ] Chapter 19 - Exceptions & Errors
+- [ ] Chapter 20 - OOP Project
+- [ ] Chapter 21 - Virtual Environments & PIP
+- [ ] Chapter 22 - File Operations
+- [ ] Chapter 23 - Final Project
