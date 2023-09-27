@@ -5,10 +5,10 @@
 - [x] Chapter 3 - Operators
 - [x] Chapter 4 - Data Types
 - [x] Chapter 5 - User Input
-- [ ] Chapter 6 - Lists & Tuples
-- [ ] Chapter 7 - Dictionaries & Sets
-- [ ] Chapter 8 - Loops
-- [ ] Chapter 9 - Functions
+- [x] Chapter 6 - Lists & Tuples
+- [x] Chapter 7 - Dictionaries & Sets
+- [x] Chapter 8 - Loops
+- [x] Chapter 9 - Functions
 - [ ] Chapter 10 - Recursion
 - [ ] Chapter 11 - Scope
 - [ ] Chapter 12 - Closures
