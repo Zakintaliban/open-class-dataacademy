@@ -9,11 +9,11 @@
 - [x] Chapter 7 - Dictionaries & Sets
 - [x] Chapter 8 - Loops
 - [x] Chapter 9 - Functions
-- [ ] Chapter 10 - Recursion
-- [ ] Chapter 11 - Scope
-- [ ] Chapter 12 - Closures
-- [ ] Chapter 13 - f-Strings
-- [ ] Chapter 14 - Modules
+- [x] Chapter 10 - Recursion
+- [x] Chapter 11 - Scope
+- [x] Chapter 12 - Closures
+- [x] Chapter 13 - Strings
+- [x] Chapter 14 - Modules
 - [ ] Chapter 15 - Command Line Arguments
 - [ ] Chapter 16 - Challenges
 - [ ] Chapter 17 - Lambda & Higher Order Functions
