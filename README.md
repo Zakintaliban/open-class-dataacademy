@@ -2,9 +2,9 @@
 
 - [x] Chapter 1 - Getting Started
 - [x] Chapter 2 - Python Basics
-- [ ] Chapter 3 - Operators
-- [ ] Chapter 4 - Data Types
-- [ ] Chapter 5 - User Input
+- [x] Chapter 3 - Operators
+- [x] Chapter 4 - Data Types
+- [x] Chapter 5 - User Input
 - [ ] Chapter 6 - Lists & Tuples
 - [ ] Chapter 7 - Dictionaries & Sets
 - [ ] Chapter 8 - Loops
