@@ -44,7 +44,7 @@ class Irl_Cat(Cat):
     def __str__(self):
         return f"My name is {self.name} and I am a {self.color} {self.race} cat."
 
-    def weight(self):
+    def berat(self):
         print(f"{self.name} is {self.weight} kg")
 
 
@@ -75,7 +75,7 @@ gumball.sleep()
 persian_cat.sleep()
 
 # call the weight attribute on the persian_cat object
-persian_cat.weight()
+persian_cat.berat()
 
 # call the race attribute on the persian_cat object
 print(persian_cat.race)
