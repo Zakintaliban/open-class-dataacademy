@@ -41,9 +41,9 @@ first = "Hello "
 second = "World"
 
 result = first + second
-
+print(result)
 long_result = first + second + "!"
-
+print(long_result)
 # Contoh angka bulat
 
 chairs = 4
