@@ -12,12 +12,12 @@ except:
 
 # final code in finally block
 finally:
-    print("GeeksForGeeks")
+    print("end")
 
 # Output:
 # code start
 # an error occurs
-# GeeksForGeeks
+# end
 
 # Raising exceptions for a predefined condition
 # try for unsafe code
