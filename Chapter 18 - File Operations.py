@@ -9,3 +9,7 @@ for each in file:
 # there are many ways to write, but lets move on
 
 # this will write a file named "hadi" with the writing mode.
+
+file = open("hadi.txt", "w")
+file.write("Afah iyah?")
+file.close()
