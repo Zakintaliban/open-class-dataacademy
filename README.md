@@ -17,6 +17,6 @@
 - [x] Chapter 15 - Lambda & Higher Order Functions
 - [x] Chapter 16 - Error Handling
 - [x] Chapter 17 - Virtual Environments & PIP
-- [ ] Chapter 18 - File Operations
-- [ ] Chapter 19 - Classes & Objects
-- [ ] Chapter 20 - OOP
+- [x] Chapter 18 - File Operations
+- [x] Chapter 19 - Classes & Objects
+- [x] Chapter 20 - OOP
