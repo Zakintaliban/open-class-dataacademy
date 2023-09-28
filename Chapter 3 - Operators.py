@@ -59,6 +59,8 @@ if test_value < 1:
 else:
     print("Value is >= 1")
 
+# equal equal operator
+
 test_string = "VALID"
 
 if test_string == "NOT_VALID":
@@ -80,7 +82,13 @@ a < b  # evaluates to True
 a > b  # evaluates to False
 a >= b  # evaluates to False
 a <= b  # evaluates to True
-a <= a  # evaluates to True
+
+nilai = 80
+
+if nilai <= 80:
+    print(nilai, "Nilai Anda A")
+elif nilai < 80:
+    print(nilai, "Nilai Anda B")
 
 # Equal operator
 
@@ -139,3 +147,16 @@ not False  # Evaluates to True
 not 1 > 2  # Evaluates to True
 1 == 1  # Evaluates to True
 not 1 == 1  # Evaluates to False
+
+nilai_matkul_a = 80
+nilai_matkul_b = 70
+
+if nilai_matkul_a >= 80 and nilai_matkul_b >= 80:
+    print("Selamat Anda Lulus")
+else:
+    print("Maaf Anda Tidak Lulus")
+
+if nilai_matkul_a >= 80 or nilai_matkul_b >= 80:
+    print("Selamat Anda Lulus")
+else:
+    print("Maaf Anda Tidak Lulus")
