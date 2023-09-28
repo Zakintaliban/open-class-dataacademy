@@ -14,12 +14,9 @@
 - [x] Chapter 12 - Closures
 - [x] Chapter 13 - Strings
 - [x] Chapter 14 - Modules
-- [ ] Chapter 15 - Command Line Arguments
-- [ ] Chapter 16 - Challenges
-- [ ] Chapter 17 - Lambda & Higher Order Functions
-- [ ] Chapter 18 - Classes & Objects
-- [ ] Chapter 19 - Exceptions & Errors
-- [ ] Chapter 20 - OOP Project
-- [ ] Chapter 21 - Virtual Environments & PIP
-- [ ] Chapter 22 - File Operations
-- [ ] Chapter 23 - Final Project
+- [x] Chapter 15 - Lambda & Higher Order Functions
+- [x] Chapter 16 - Error Handling
+- [x] Chapter 17 - Virtual Environments & PIP
+- [ ] Chapter 18 - File Operations
+- [ ] Chapter 19 - Classes & Objects
+- [ ] Chapter 20 - OOP
